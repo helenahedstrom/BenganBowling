@@ -1,0 +1,50 @@
+﻿2018-10-09 11:17:54,770 INFO [12] BenganBowling.Cup.CupManager.CreateCup - JulCupen försöker sparas
+2018-10-09 11:17:54,856 INFO [12] BenganBowling.Cup.CupManager.CreateCup - JulCupen sparades
+2018-10-09 11:17:55,145 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Martin Frost är med i cuppen
+2018-10-09 11:17:55,145 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Carly Kim är med i cuppen
+2018-10-09 11:17:55,146 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Austin.Baldwin är med i cuppen
+2018-10-09 11:17:55,146 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Rosalie Barton är med i cuppen
+2018-10-09 11:17:55,146 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Clarissa Hodges är med i cuppen
+2018-10-09 11:17:55,147 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Chris Mckinney är med i cuppen
+2018-10-09 11:17:55,147 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Kristy Snow är med i cuppen
+2018-10-09 11:17:55,147 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Hardin Jensen är med i cuppen
+2018-10-09 11:17:55,147 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Cecile Hopkins är med i cuppen
+2018-10-09 11:17:55,148 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Butler Crosby är med i cuppen
+2018-10-09 11:17:55,148 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Rosalind Eaton är med i cuppen
+2018-10-09 11:17:55,148 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Lang Bishop är med i cuppen
+2018-10-09 11:17:55,148 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Barton Maxwell är med i cuppen
+2018-10-09 11:17:55,148 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Tracey Spears är med i cuppen
+2018-10-09 11:17:55,148 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Dianne Cherry är med i cuppen
+2018-10-09 11:17:55,148 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Vanessa Hays är med i cuppen
+2018-10-09 11:17:55,151 INFO [12] BenganBowling.Cup.CupManager.CreateCup - JulCupen försöker sparas
+2018-10-09 11:17:55,151 INFO [12] BenganBowling.Cup.CupManager.CreateCup - JulCupen sparades
+2018-10-09 11:17:55,152 INFO [12] BenganBowling.BasicMaths.Add - Add 10+10= stuff
+2018-10-09 11:17:55,154 INFO [12] BenganBowling.BasicMaths.Substract - Substract 10-10= stuff
+2018-10-09 11:17:55,155 INFO [12] BenganBowling.BasicMaths.divide - Divide 10//5= stuff
+2018-10-09 11:20:20,777 INFO [12] BenganBowling.Cup.CupManager.CreateCup - JulCupen försöker sparas
+2018-10-09 11:20:20,858 INFO [12] BenganBowling.Cup.CupManager.CreateCup - JulCupen sparades
+2018-10-09 11:20:21,197 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Martin Frost är med i cuppen JulCupen
+2018-10-09 11:20:21,198 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Carly Kim är med i cuppen JulCupen
+2018-10-09 11:20:21,198 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Austin.Baldwin är med i cuppen JulCupen
+2018-10-09 11:20:21,198 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Rosalie Barton är med i cuppen JulCupen
+2018-10-09 11:20:21,199 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Clarissa Hodges är med i cuppen JulCupen
+2018-10-09 11:20:21,199 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Chris Mckinney är med i cuppen JulCupen
+2018-10-09 11:20:21,199 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Kristy Snow är med i cuppen JulCupen
+2018-10-09 11:20:21,199 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Hardin Jensen är med i cuppen JulCupen
+2018-10-09 11:20:21,199 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Cecile Hopkins är med i cuppen JulCupen
+2018-10-09 11:20:21,200 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Butler Crosby är med i cuppen JulCupen
+2018-10-09 11:20:21,200 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Rosalind Eaton är med i cuppen JulCupen
+2018-10-09 11:20:21,200 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Lang Bishop är med i cuppen JulCupen
+2018-10-09 11:20:21,200 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Barton Maxwell är med i cuppen JulCupen
+2018-10-09 11:20:21,200 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Tracey Spears är med i cuppen JulCupen
+2018-10-09 11:20:21,201 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Dianne Cherry är med i cuppen JulCupen
+2018-10-09 11:20:21,201 INFO [12] BenganBowling.Cup.CupManager.AddMembersToCup - Vanessa Hays är med i cuppen JulCupen
+2018-10-09 11:20:21,203 INFO [12] BenganBowling.Cup.CupManager.CreateCup - JulCupen försöker sparas
+2018-10-09 11:20:21,203 INFO [12] BenganBowling.Cup.CupManager.CreateCup - JulCupen sparades
+2018-10-09 11:20:21,205 INFO [12] BenganBowling.BasicMaths.Add - Add 10+10= stuff
+2018-10-09 11:20:21,206 INFO [12] BenganBowling.BasicMaths.Substract - Substract 10-10= stuff
+2018-10-09 11:20:21,207 INFO [12] BenganBowling.BasicMaths.divide - Divide 10//5= stuff
+2018-10-09 15:28:15,087 INFO [12] BenganBowling.Cup.GameManager.RegisterGame - playerOne won!
+2018-10-09 15:47:03,223 INFO [12] BenganBowling.Cup.CupManager.CreateCup - JulCupen försöker sparas
+2018-10-09 15:47:03,284 INFO [12] BenganBowling.Cup.CupManager.CreateCup - JulCupen sparades
+2018-10-09 15:47:03,836 INFO [12] BenganBowling.Cup.GameManager.RegisterGame - BenganBowling.Cup.Classes.CupPlayerModelplayerOne won!

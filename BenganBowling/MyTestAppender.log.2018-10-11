@@ -1,0 +1,5 @@
+﻿2018-10-11 09:22:28,389 INFO [1] BenganBowling.Cup.GameManager.ChallengeOpponent - Ni har redan spelat mot varandra
+2018-10-11 09:26:32,742 INFO [1] BenganBowling.Cup.GameManager.ChallengeOpponent - Helena Hedström utmanar Mimmi Mimmisson
+2018-10-11 09:59:36,685 INFO [1] BenganBowling.Cup.CupManager.CupWinner - Spelare Martin Frost har spelat 10 matcher och vunnit 10 matcher
+2018-10-11 09:59:41,128 INFO [1] BenganBowling.Cup.CupManager.CupWinner - Spelare Dianne Cherry har spelat 12 matcher och vunnit 12 matcher
+2018-10-11 09:59:45,427 INFO [1] BenganBowling.Cup.CupManager.CupWinner - Vinnaren i cuppen JulCupen är Martin Frost

@@ -1,0 +1,8 @@
+﻿2018-10-08 16:56:34,392 INFO [12] BenganBowling.BasicMaths.Add - Add 10+10= stuff
+2018-10-08 16:56:34,499 INFO [12] BenganBowling.BasicMaths.Substract - Substract 10-10= stuff
+2018-10-08 16:56:34,500 INFO [12] BenganBowling.BasicMaths.divide - Divide 10//5= stuff
+2018-10-08 17:47:54,867 INFO [12] BenganBowling.Cup.CupManager.CreateCup - JulCupenförsöker sparas
+2018-10-08 17:47:54,924 INFO [12] BenganBowling.Cup.CupManager.CreateCup - JulCupensparades
+2018-10-08 17:47:54,942 INFO [12] BenganBowling.BasicMaths.Add - Add 10+10= stuff
+2018-10-08 17:47:54,944 INFO [12] BenganBowling.BasicMaths.Substract - Substract 10-10= stuff
+2018-10-08 17:47:54,944 INFO [12] BenganBowling.BasicMaths.divide - Divide 10//5= stuff

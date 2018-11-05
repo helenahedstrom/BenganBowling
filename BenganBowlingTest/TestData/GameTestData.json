@@ -1,0 +1,453 @@
+[
+  {
+    "playerOne": {
+      "cupPlayer1": {
+        "_id": "5bb8a4e56529f76d76f62722",
+        "name": "Martin Frost",
+        "email": "martin.frost@gmail.com",
+        "address": "Bayview Place 53",
+        "zipcode": 17589,
+        "city": "Jeff"
+
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e5b92af6df6317ba87",
+        "name": "Carly Kim",
+        "email": "carly.kim@gmail.com",
+        "address": "Pineapple Street 80",
+        "zipcode": 76345,
+        "city": "Bethpage"
+      }
+    }
+  },
+
+  {
+    "playerOne": {
+      "cupPlayer1": {
+        "_id": "5bb8a4e56529f76d76f62722",
+        "name": "Martin Frost",
+        "email": "martin.frost@gmail.com",
+        "address": "Bayview Place 53",
+        "zipcode": 17589,
+        "city": "Jeff"
+
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e51ac96a60cb02ffd3",
+        "name": "Austin.Baldwin",
+        "email": "austin baldwin@gmail.com",
+        "address": "Claver Place 114",
+        "zipcode": 61638,
+        "city": "Why"
+      }
+    }
+  },
+
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e5fb3fa691676b8bb2",
+        "name": "Rosalie Barton",
+        "email": "rosalie.barton@gmail.com",
+        "address": "Bridge Street 126",
+        "zipcode": 77166,
+        "city": "Umapine"
+      }
+    },
+    "playerTwo": {
+      "cupPlayer1": {
+        "_id": "5bb8a4e56529f76d76f62722",
+        "name": "Martin Frost",
+        "email": "martin.frost@gmail.com",
+        "address": "Bayview Place 53",
+        "zipcode": 17589,
+        "city": "Jeff"
+      }
+    }
+  },
+  {
+    "playerOne": {
+      "cupPlayer1": {
+        "_id": "5bb8a4e56529f76d76f62722",
+        "name": "Martin Frost",
+        "email": "martin.frost@gmail.com",
+        "address": "Bayview Place 53",
+        "zipcode": 17589,
+        "city": "Jeff"
+
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e520bf3efcc5e59267",
+        "name": "Clarissa Hodges",
+        "email": "clarissa.hodges@gmail.com",
+        "address": "Erskine Loop 65",
+        "zipcode": 36906,
+        "city": "Lodoga"
+      }
+    }
+  },
+
+  {
+    "playerOne": {
+      "cupPlayer1": {
+        "_id": "5bb8a4e56529f76d76f62722",
+        "name": "Martin Frost",
+        "email": "martin.frost@gmail.com",
+        "address": "Bayview Place 53",
+        "zipcode": 17589,
+        "city": "Jeff"
+
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e5214e62e38d57148f",
+        "name": "Chris Mckinney",
+        "email": "chris.mckinney@gmail.com",
+        "address": "Lawrence Avenue 77",
+        "zipcode": 13553,
+        "city": "Convent"
+      }
+    }
+  },
+
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e5dbd6e2aceba138fc",
+        "name": "Kristy Snow",
+        "email": "kristy.snow@gmail.com",
+        "address": "Nolans Lane 122",
+        "zipcode": 59672,
+        "city": "Winston"
+      }
+    },
+    "playerTwo": {
+      "cupPlayer1": {
+        "_id": "5bb8a4e56529f76d76f62722",
+        "name": "Martin Frost",
+        "email": "martin.frost@gmail.com",
+        "address": "Bayview Place 53",
+        "zipcode": 17589,
+        "city": "Jeff"
+      }
+    }
+  },
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e56529f76d76f62722",
+        "name": "Martin Frost",
+        "email": "martin.frost@gmail.com",
+        "address": "Bayview Place 53",
+        "zipcode": 17589,
+        "city": "Jeff"
+
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e5520e477a597f415a",
+        "name": "Hardin Jensen",
+        "email": "hardin.jensen@gmail.com",
+        "address": "Cherry Street 100",
+        "zipcode": 57043,
+        "city": "Mahtowa"
+      }
+    }
+  },
+
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e56529f76d76f62722",
+        "name": "Martin Frost",
+        "email": "martin.frost@gmail.com",
+        "address": "Bayview Place 53",
+        "zipcode": 17589,
+        "city": "Jeff"
+
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e55e4bfb4189fe62cd",
+        "name": "Butler Crosby",
+        "email": "butler.crosby@gmail.com",
+        "address": "Columbia Place 130",
+        "zipcode": 62058,
+        "city": "Cutter"
+      }
+    }
+  },
+
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e5611482fc42548b3f",
+        "name": "Lang Bishop",
+        "email": "lang.ishop@gmail.com",
+        "address": "Schweikerts Walk 90",
+        "zipcode": 47744,
+        "city": "Salvo"
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e56529f76d76f62722",
+        "name": "Martin Frost",
+        "email": "martin.frost@gmail.com",
+        "address": "Bayview Place 53",
+        "zipcode": 17589,
+        "city": "Jeff"
+      }
+    }
+  },
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e56529f76d76f62722",
+        "name": "Martin Frost",
+        "email": "martin.frost@gmail.com",
+        "address": "Bayview Place 53",
+        "zipcode": 17589,
+        "city": "Jeff"
+
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e543a96687d2b637c4",
+        "name": "Dianne Cherry",
+        "email": "dianne.cherry@gmail.com",
+        "address": "Georgia Avenue 56",
+        "zipcode": 54740,
+        "city": "Jennings"
+      }
+    }
+  },
+
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e543a96687d2b637c4",
+        "name": "Dianne Cherry",
+        "email": "dianne.cherry@gmail.com",
+        "address": "Georgia Avenue 56",
+        "zipcode": 54740,
+        "city": "Jennings"
+
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e5214e62e38d57148f",
+        "name": "Chris Mckinney",
+        "email": "chris.mckinney@gmail.com",
+        "address": "Lawrence Avenue 77",
+        "zipcode": 13553,
+        "city": "Convent"
+      }
+    }
+  },
+
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e5dbd6e2aceba138fc",
+        "name": "Kristy Snow",
+        "email": "kristy.snow@gmail.com",
+        "address": "Nolans Lane 122",
+        "zipcode": 59672,
+        "city": "Winston"
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e543a96687d2b637c4",
+        "name": "Dianne Cherry",
+        "email": "dianne.cherry@gmail.com",
+        "address": "Georgia Avenue 56",
+        "zipcode": 54740,
+        "city": "Jennings"
+      }
+    }
+  },
+
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e5611482fc42548b3f",
+        "name": "Lang Bishop",
+        "email": "lang.ishop@gmail.com",
+        "address": "Schweikerts Walk 90",
+        "zipcode": 47744,
+        "city": "Salvo"
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e543a96687d2b637c4",
+        "name": "Dianne Cherry",
+        "email": "dianne.cherry@gmail.com",
+        "address": "Georgia Avenue 56",
+        "zipcode": 54740,
+        "city": "Jennings"
+      }
+    }
+  },
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e5520e477a597f415a",
+        "name": "Hardin Jensen",
+        "email": "hardin.jensen@gmail.com",
+        "address": "Cherry Street 100",
+        "zipcode": 57043,
+        "city": "Mahtowa"
+
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e543a96687d2b637c4",
+        "name": "Dianne Cherry",
+        "email": "dianne.cherry@gmail.com",
+        "address": "Georgia Avenue 56",
+        "zipcode": 54740,
+        "city": "Jennings"
+      }
+    }
+  },
+
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e543a96687d2b637c4",
+        "name": "Dianne Cherry",
+        "email": "dianne.cherry@gmail.com",
+        "address": "Georgia Avenue 56",
+        "zipcode": 54740,
+        "city": "Jennings"
+
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e520bf3efcc5e59267",
+        "name": "Clarissa Hodges",
+        "email": "clarissa.hodges@gmail.com",
+        "address": "Erskine Loop 65",
+        "zipcode": 36906,
+        "city": "Lodoga"
+      }
+    }
+  },
+
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e55e4bfb4189fe62cd",
+        "name": "Butler Crosby",
+        "email": "butler.crosby@gmail.com",
+        "address": "Columbia Place 130",
+        "zipcode": 62058,
+        "city": "Cutter"
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e543a96687d2b637c4",
+        "name": "Dianne Cherry",
+        "email": "dianne.cherry@gmail.com",
+        "address": "Georgia Avenue 56",
+        "zipcode": 54740,
+        "city": "Jennings"
+      }
+    }
+  },
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e5b92af6df6317ba87",
+        "name": "Carly Kim",
+        "email": "carly.kim@gmail.com",
+        "address": "Pineapple Street 80",
+        "zipcode": 76345,
+        "city": "Bethpage"
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e543a96687d2b637c4",
+        "name": "Dianne Cherry",
+        "email": "dianne.cherry@gmail.com",
+        "address": "Georgia Avenue 56",
+        "zipcode": 54740,
+        "city": "Jennings"
+      }
+    }
+  },
+  {
+    "playerOne": {
+      "cupPlayer": {
+        "_id": "5bb8a4e51ac96a60cb02ffd3",
+        "name": "Austin.Baldwin",
+        "email": "austin baldwin@gmail.com",
+        "address": "Claver Place 114",
+        "zipcode": 61638,
+        "city": "Why"
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e543a96687d2b637c4",
+        "name": "Dianne Cherry",
+        "email": "dianne.cherry@gmail.com",
+        "address": "Georgia Avenue 56",
+        "zipcode": 54740,
+        "city": "Jennings"
+      }
+    }
+  },
+  {
+    "playerOne": {
+      "cupPlayer": {
+                  "_id": "5bb8a4e5fb3fa691676b8bb2",
+                  "name": "Rosalie Barton",
+                  "email": "rosalie.barton@gmail.com",
+                  "address": "Bridge Street 126",
+                  "zipcode": 77166,
+                  "city": "Umapine"
+      }
+    },
+    "playerTwo": {
+      "cupPlayer": {
+        "_id": "5bb8a4e543a96687d2b637c4",
+        "name": "Dianne Cherry",
+        "email": "dianne.cherry@gmail.com",
+        "address": "Georgia Avenue 56",
+        "zipcode": 54740,
+        "city": "Jennings"
+      }
+    }
+  }
+
+
+
+
+
+]
+
+
+
+
+
+
+
